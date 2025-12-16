@@ -32,8 +32,8 @@ The game supports two players, detects winners, handles draw conditions, and all
 ---
 
 ## 📂 Project Structure
-tic-tac-toe/
-│
+tic-tac-toe/  <br>
+│        <br>
 ├── index.html <br>
 ├── style.css  <br>
 └── script.js   <br>
