@@ -41,7 +41,7 @@ tic-tac-toe/  <br>
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/tic-tac-toe/
+👉 https://ayush4828.github.io/Tic-Tac-Toe/
 
 *(Enable GitHub Pages to activate the demo)*
 
