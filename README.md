@@ -13,7 +13,9 @@ The game supports two players, detects winners, handles draw conditions, and all
 - Clean and responsive UI
 - Disabled cells after selection to prevent overwriting
 
+
 ---
+
 
 ## 🛠️ Tech Stack
 - HTML5
