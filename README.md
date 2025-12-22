@@ -6,12 +6,12 @@ The game supports two players, detects winners, handles draw conditions, and all
 ---
 
 ## 🚀 Features
-- Two-player turn-based gameplay (X and O)
-- Automatic win detection using predefined winning patterns
-- Draw detection when no moves are left
-- Game reset and new game functionality
-- Clean and responsive UI
-- Disabled cells after selection to prevent overwriting
+- Two-player turn-based gameplay (X and O).
+- Automatic win detection using predefined winning patterns.
+- Draw detection when no moves are left.
+- Game reset and new game functionality.
+- Clean and responsive UI.
+- Disabled cells after selection to prevent overwriting.
 
 
 ---
